@@ -20,6 +20,6 @@
 *O precesso deve ser repetido na criação de outras máquinas virtuais.*
 # Hypervisor do tipo 2
 A prática acima é considerada hypervisor do tipo 2 devido à necessidade de operar sob o sistema operacional (host) para criar máquinas virtuais.
-#Configuração para que um servidor suporte três máquinas virtuais como as apresentadas no artigo de base
+# Configuração para que um servidor suporte três máquinas virtuais como as apresentadas no artigo de base
 Há a necessidade de realizar um upgrade nos tamanhos da memória RAM e do disco rígido para aprimorar a performance nas atividades exercidas pela empresa.
 
