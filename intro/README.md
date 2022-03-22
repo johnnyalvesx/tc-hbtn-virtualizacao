@@ -23,3 +23,7 @@ A prática acima é considerada hypervisor do tipo 2 devido à necessidade de op
 # Configuração para que um servidor suporte três máquinas virtuais como as apresentadas no artigo de base
 Há a necessidade de realizar um upgrade nos tamanhos da memória RAM e do disco rígido para aprimorar a performance nas atividades exercidas pela empresa.
 
+### Algumas palavras-chave
+Server Manager;
+Windows Server;
+adaptador de rede
